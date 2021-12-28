@@ -13,6 +13,7 @@
 		842F5A41277AAFDC00B2E6C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 842F5A3F277AAFDC00B2E6C4 /* Main.storyboard */; };
 		842F5A43277AAFDE00B2E6C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 842F5A42277AAFDE00B2E6C4 /* Assets.xcassets */; };
 		842F5A46277AAFDE00B2E6C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 842F5A44277AAFDE00B2E6C4 /* LaunchScreen.storyboard */; };
+		842F5A4E277AB4BF00B2E6C4 /* CounterViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842F5A4D277AB4BF00B2E6C4 /* CounterViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		842F5A42277AAFDE00B2E6C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		842F5A45277AAFDE00B2E6C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		842F5A47277AAFDE00B2E6C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		842F5A4D277AB4BF00B2E6C4 /* CounterViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				842F5A39277AAFDC00B2E6C4 /* AppDelegate.swift */,
 				842F5A3B277AAFDC00B2E6C4 /* SceneDelegate.swift */,
 				842F5A3D277AAFDC00B2E6C4 /* ViewController.swift */,
+				842F5A4D277AB4BF00B2E6C4 /* CounterViewCell.swift */,
 				842F5A3F277AAFDC00B2E6C4 /* Main.storyboard */,
 				842F5A42277AAFDE00B2E6C4 /* Assets.xcassets */,
 				842F5A44277AAFDE00B2E6C4 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				842F5A3E277AAFDC00B2E6C4 /* ViewController.swift in Sources */,
 				842F5A3A277AAFDC00B2E6C4 /* AppDelegate.swift in Sources */,
 				842F5A3C277AAFDC00B2E6C4 /* SceneDelegate.swift in Sources */,
+				842F5A4E277AB4BF00B2E6C4 /* CounterViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
